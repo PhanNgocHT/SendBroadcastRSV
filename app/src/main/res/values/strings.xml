@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendBroadcastRSV</string>
+    <string name="appA">Open application A</string>
+    <string name="appB">Open application B</string>
+</resources>
